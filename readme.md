@@ -12,7 +12,7 @@
   - [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
   - [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
   - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
-- Coding Practice: [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) Luca Minudel 2009
+- Coding Practice: [Racing Car Katas](https://github.com/brehberg/Racing-Car-Katas/tree/master/abap) Luca Minudel 2009
   - focus on finding SOLID violations
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
   - Chapter 1: Clean Code
@@ -32,21 +32,21 @@
   - Chapter 9: Unit Tests
 - Reading Book: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) Michael Feathers 2004
   - Chapter 8: How Do I Add a Feature ?
-    - focus on comparing [Example Code in ABAP](http://github.com/brehberg/PAO-legacy-code)  
+    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-legacy-code)  
 - Coding Practice: [Gilded Rose Kata](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap) Terry Hughes 2010
   - focus on Test Code Coverage and adding the new feature without refactoring existing code
 - Reading Article: [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html) Nat Pryce 2015
 
 ## Section 3: Refactoring
 
-- Watching Video: [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) Martin Fowler 2014 
+- Watching Video: [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) Martin Fowler 2014 YouTube
 - Reading Book: [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) Martin Fowler 1999
   - Chapter 1: Refactoring, a First Example
-    - focus on comparing [Example Code in ABAP](http://github.com/brehberg/PAO-refactoring)  
+    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-refactoring) 
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
 - Coding Practice: [Trip Service Kata](https://github.com/brehberg/trip-service-kata/tree/master/abap)
-   - focus on [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
+   - focus on [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 YouTube Java
 - Coding Performance: Gilded Rose Kata 
 - Coding Practice: [Tennis Refactoring Kata](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
   - focus on Refactoring and removing code smells 
@@ -55,12 +55,12 @@
 
 - Reading Book: [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002
   - Part 1: The Money Example
-    - focus on comparing [Example Code in ABAP](http://github.com/brehberg/PAO-example-tdd)    
-- Watching Video: [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Misko Hevery 2010 
+    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-example-tdd)    
+- Watching Video: [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Misko Hevery 2010 YouTube
 - Reading Article: [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html) Scott Bellware 2009
-- Coding Practice: [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) Robert C. Martin 2005 Java
-- Coding Practice: [Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) Corey Haines 2012 Ruby 
-- Watching Video: [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Misko Hevery 2008
+- Coding Practice: [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) Robert C. Martin 2005 PowerPoint Java
+- Coding Practice: [Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) Corey Haines 2012 YouTube Ruby 
+- Watching Video: [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Misko Hevery 2008 YouTube
 - Reading Book: [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) Steve Freeman/Nat Pryce 2009
   - Chapter 1: What Is the Point of Test-Driven Development?
   - Chapter 2: Test-Driven Development with Objects
@@ -72,13 +72,13 @@
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008
   - Chapter 8: Boundaries
 - Reading Article: [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler 2007
-- Coding Practice: [String Calculator Kata](http://osherove.com/tdd-kata-1/) Roy Osherove 2009
-    - focus on using TDD and follow this [video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang
+- Coding Practice: [String Calculator Kata](http://osherove.com/tdd-kata-1/) [Part 2](http://osherove.com/tdd-kata-2/) Roy Osherove 2009
+    - focus on using TDD and follow this [video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang 
 
 ## Section 5: Practice ABAP Objects
 
 - Reading Book: [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330) Sandi Metz 2012
-- Reading Article: Additional resources from Five-O training classes 
+- Reading Article: Additional examples from Five-O training presentations
 - Coding Performance: Bowling Game Kata
 - Coding Performance: Roman Numerals Kata
 - Coding Performance: Fizz Buzz Kata
@@ -88,8 +88,8 @@
 ## Section 6: Application Development
 
 - Reading Article: [The Twelve-Factor App](http://12factor.net/) Adam Wiggins 2012
-- Reading Article: [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) Scott Ambler 2004 
 - Explore Technology: Code repository (e.g. Github)
+- Reading Article: [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) Scott Ambler 2004 
 - Explore Technology: Organizing work (e.g. Trello)
 - Explore Technology: Dev Environment (e.g. Vagrant/Ansible)
 - Explore Technology: CI Environment (e.g. Travis)
@@ -102,9 +102,9 @@
   - Part 3: Patterns for Test-Driven Development
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
   - Chapter 12: Emergence
-- Watching Video: [Interaction Driven Design](https://vimeo.com/107963074) Sandro Mancuso 2014 
-- Watching Video: [Crafted Design](https://vimeo.com/128596005) Sandro Mancuso 2014 
+- Watching Video: [Interaction Driven Design](https://vimeo.com/107963074) Sandro Mancuso 2014 Vimeo
+- Watching Video: [Crafted Design](https://vimeo.com/128596005) Sandro Mancuso 2014 Vimeo
 - Reading Article: [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture) Alistair Cockburn 2005  
-- Watching Video: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) Greg Young 2014 
-- Watching Video: [CQRS with Erlang](https://vimeo.com/97318824) Bryan Hunter 2014 
+- Watching Video: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) Greg Young 2014 YouTube
+- Watching Video: [CQRS with Erlang](https://vimeo.com/97318824) Bryan Hunter 2014 Vimeo
 - Coding Practice: [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) Sandro Mancuso 2014 
