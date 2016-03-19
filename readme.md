@@ -33,7 +33,7 @@
 - Reading Book: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) Michael Feathers 2004
   - Chapter 8: How Do I Add a Feature ?
     - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-legacy-code)  
-- Coding Practice: [Gilded Rose Kata](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap) Terry Hughes 2010
+- Coding Practice: [Gilded Rose Kata in ABAP](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap) Terry Hughes 2010
   - focus on Test Code Coverage and adding the new feature without refactoring existing code
 - Reading Article: [Working Effectively with Legacy Tests](http://natpryce.com/articles/000813.html) Nat Pryce 2015
 
@@ -45,11 +45,11 @@
     - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-refactoring) 
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
-- Watching YouTube: [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
-    - focus on praticing the [Trip Service Kata](https://github.com/brehberg/trip-service-kata/tree/master/abap) in ABAP
-- Coding Practice: Gilded Rose Kata 
+- Watching YouTube: 1:17:07 [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
+    - focus on praticing the [Trip Service Kata in ABAP](https://github.com/brehberg/trip-service-kata/tree/master/abap)
+- Coding Practice: Gilded Rose Kata in ABAP
   - focus on taking the Test Code Coverage of Section 2 and try to do refactoring
-- Coding Practice: [Tennis Refactoring Kata](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
+- Coding Practice: [Tennis Refactoring Kata in ABAP](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
   - focus on Refactoring and removing code smells 
 
 ## Section 4: Test Driven Development
