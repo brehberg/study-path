@@ -1,6 +1,6 @@
 ## Section 0: Getting Started
 
-- Watching Video: [The Pomodoro Technique](http://pomodorotechnique.com/)
+- Watching Video: 2:22 [The Pomodoro Technique](http://pomodorotechnique.com/)
 - Reading Article: [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - Reading Article: [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
@@ -39,15 +39,16 @@
 
 ## Section 3: Refactoring
 
-- Watching Video: [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) Martin Fowler 2014 YouTube
+- Watching YouTube: 27:04 [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw) Martin Fowler 2014
 - Reading Book: [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) Martin Fowler 1999
   - Chapter 1: Refactoring, a First Example
     - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-refactoring) 
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
-- Coding Practice: [Trip Service Kata](https://github.com/brehberg/trip-service-kata/tree/master/abap)
-   - focus on [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 YouTube Java
-- Coding Performance: Gilded Rose Kata 
+- Watching YouTube: [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
+    - focus on praticing the [Trip Service Kata](https://github.com/brehberg/trip-service-kata/tree/master/abap) in ABAP
+- Coding Practice: Gilded Rose Kata 
+  - focus on taking the Test Code Coverage of Section 2 and try to do refactoring
 - Coding Practice: [Tennis Refactoring Kata](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
   - focus on Refactoring and removing code smells 
 
@@ -56,11 +57,11 @@
 - Reading Book: [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002
   - Part 1: The Money Example
     - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-example-tdd)    
-- Watching Video: [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Misko Hevery 2010 YouTube
+- Watching YouTube: 1:18:41 [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Misko Hevery 2010 
 - Reading Article: [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html) Scott Bellware 2009
-- Coding Practice: [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) Robert C. Martin 2005 PowerPoint Java
-- Coding Practice: [Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) Corey Haines 2012 YouTube Ruby 
-- Watching Video: [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Misko Hevery 2008 YouTube
+- Coding Practice: [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) Robert C. Martin 2005 Java
+- Coding Practice: [Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) Corey Haines 2012 Ruby 
+- Watching YouTube: 32:07 [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Misko Hevery 2008 
 - Reading Book: [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) Steve Freeman/Nat Pryce 2009
   - Chapter 1: What Is the Point of Test-Driven Development?
   - Chapter 2: Test-Driven Development with Objects
@@ -73,27 +74,27 @@
   - Chapter 8: Boundaries
 - Reading Article: [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler 2007
 - Coding Practice: [String Calculator Kata](http://osherove.com/tdd-kata-1/) [Part 2](http://osherove.com/tdd-kata-2/) Roy Osherove 2009
-    - focus on using TDD and follow this [video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang 
+    - focus on using TDD and try to follow this [vimeo 14:21 video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang 
 
 ## Section 5: Practice ABAP Objects
 
 - Reading Book: [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330) Sandi Metz 2012
-- Reading Article: Additional examples from Five-O training presentations
-- Coding Performance: Bowling Game Kata
-- Coding Performance: Roman Numerals Kata
-- Coding Performance: Fizz Buzz Kata
-- Coding Performance: String Calculator Kata
-- Coding Performance: Tennis Game Kata
+- Reading Article: Additional examples from ABAP Objects training presentations
+- Coding Practice: Bowling Game Kata in ABAP Objects
+- Coding Practice: Roman Numerals Kata in ABAP Objects
+- Coding Practice: Fizz Buzz Kata in ABAP Objects
+- Coding Practice: String Calculator Kata in ABAP Objects
+- Coding Practice: Tennis Game Kata in ABAP Objects
 
 ## Section 6: Application Development
 
 - Reading Article: [The Twelve-Factor App](http://12factor.net/) Adam Wiggins 2012
-- Explore Technology: Code repository (e.g. Github)
+- Exploring Technology: Code repository (e.g. Github)
 - Reading Article: [User Stories](http://www.agilemodeling.com/artifacts/userStory.htm) Scott Ambler 2004 
-- Explore Technology: Organizing work (e.g. Trello)
-- Explore Technology: Dev Environment (e.g. Vagrant/Ansible)
-- Explore Technology: CI Environment (e.g. Travis)
-- Explore Technology: Deployment (e.g. Heroku)
+- Exploring Technology: Organizing work (e.g. Trello)
+- Exploring Technology: Dev Environment (e.g. Vagrant/Ansible)
+- Exploring Technology: CI Environment (e.g. Travis)
+- Exploring Technology: Deployment (e.g. Heroku)
 - Reading Article: [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) Martin Fowler 2013 
 
 ## Section 7: IDD Refinements
@@ -102,9 +103,9 @@
   - Part 3: Patterns for Test-Driven Development
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
   - Chapter 12: Emergence
-- Watching Video: [Interaction Driven Design](https://vimeo.com/107963074) Sandro Mancuso 2014 Vimeo
-- Watching Video: [Crafted Design](https://vimeo.com/128596005) Sandro Mancuso 2014 Vimeo
-- Reading Article: [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture) Alistair Cockburn 2005  
-- Watching Video: [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) Greg Young 2014 YouTube
-- Watching Video: [CQRS with Erlang](https://vimeo.com/97318824) Bryan Hunter 2014 Vimeo
+- Watching Vimeo: 34:30 [Interaction Driven Design](https://vimeo.com/107963074) Sandro Mancuso 2014 
+- Watching Vimeo: 57:58 [Crafted Design](https://vimeo.com/128596005) Sandro Mancuso 2014 
+- Reading Article: [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture) Alistair Cockburn 2005 
+- Watching YouTube: 1:03:47 [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs) Greg Young 2014 
+- Watching Vimeo: 1:05:26 [CQRS with Erlang](https://vimeo.com/97318824) Bryan Hunter 2014 
 - Coding Practice: [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata) Sandro Mancuso 2014 
