@@ -4,7 +4,7 @@
 - Reading Article: [Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
 - Reading Article: [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
 
-## Section 1: OO Design
+## Section 1: Object-Oriented Design
 
 - Reading Article: [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) Robert C. Martin 2005 
   - [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
@@ -14,14 +14,14 @@
   - [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
 - Coding Practice: [Racing Car Katas](https://github.com/brehberg/Racing-Car-Katas/tree/master/abap) Luca Minudel 2009
   - focus on finding SOLID violations
-- Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
+- Reading Book: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
   - Chapter 1: Clean Code
   - Chapter 2: Meaningful Names
   - Chapter 3: Functions
   - Chapter 6: Objects and Data Structures
   - Chapter 7: Error Handling
   - Chapter 10: Classes
-- Reading Book: [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) Andrew Hunt/David Thomas 1999 
+- Reading Book: [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer) Andrew Hunt/David Thomas 1999 
   - Chapter 2: A Pragmatic Approach
   - Chapter 5: Bend or Break
   - Chapter 6: While You Are Coding
@@ -47,22 +47,22 @@
   - Chapter 3: Bad Smells in Code
 - Watching YouTube: 1:17:07 [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
     - focus on praticing the [Trip Service Kata in ABAP](https://github.com/brehberg/trip-service-kata/tree/master/abap)
-- Coding Practice: Gilded Rose Kata in ABAP
+- Coding Practice: [Gilded Rose Kata in ABAP](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap)
   - focus on taking the Test Code Coverage of Section 2 and try to do refactoring
 - Coding Practice: [Tennis Refactoring Kata in ABAP](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
   - focus on Refactoring and removing code smells 
 
 ## Section 4: Test Driven Development
 
-- Reading Book: [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002
-  - Part 1: The Money Example
-    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-example-tdd)    
-- Watching YouTube: 1:18:41 [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Misko Hevery 2010 
+- Watching YouTube: 1:18:41 [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs) Miško Hevery 2010 
 - Reading Article: [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html) Scott Bellware 2009
+- Reading Book: [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002
+  - Part 1: The Money Example
+    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-example-tdd)
 - Coding Practice: [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata) Robert C. Martin 2005 Java
 - Coding Practice: [Roman Numerals Kata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) Corey Haines 2012 Ruby 
-- Watching YouTube: 32:07 [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Misko Hevery 2008 
-- Reading Book: [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) Steve Freeman/Nat Pryce 2009
+- Watching YouTube: 32:07 [Clean Code Talk - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) Miško Hevery 2008 
+- Reading Book: [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) Steve Freeman/Nat Pryce 2009
   - Chapter 1: What Is the Point of Test-Driven Development?
   - Chapter 2: Test-Driven Development with Objects
   - Chapter 4: Kick-Starting the Test-Driven Cycle
@@ -99,7 +99,7 @@
 
 ## Section 7: IDD Refinements
 
-- Reading Book: [TDD by example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002 
+- Reading Book: [Test Driven Development: By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530) Kent Beck 2002 
   - Part 3: Patterns for Test-Driven Development
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008 
   - Chapter 12: Emergence
