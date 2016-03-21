@@ -31,7 +31,7 @@
 - Reading Book: [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) Robert C. Martin 2008
   - Chapter 9: Unit Tests
 - Reading Book: [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) Michael Feathers 2004
-  - Chapter 8: How Do I Add a Feature ?
+  - Chapter 8: How Do I Add a Feature?
     - focus on comparing [Example Code in ABAP](https://github.com/brehberg/PAO-legacy-code)  
 - Coding Practice: [Gilded Rose Kata in ABAP](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap) Terry Hughes 2010
   - focus on Test Code Coverage and adding the new feature without refactoring existing code
@@ -46,7 +46,7 @@
   - Chapter 2: Principles in Refactoring
   - Chapter 3: Bad Smells in Code
 - Watching YouTube: 1:17:07 [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0) Sandro Mancuso 2012 Java
-    - focus on praticing the [Trip Service Kata in ABAP](https://github.com/brehberg/trip-service-kata/tree/master/abap)
+    - focus on following the [Trip Service Kata in ABAP](https://github.com/brehberg/trip-service-kata/tree/master/abap)
 - Coding Practice: [Gilded Rose Kata in ABAP](https://github.com/brehberg/GildedRose-Refactoring-Kata/tree/master/abap)
   - focus on taking the Test Code Coverage of Section 2 and try to do refactoring
 - Coding Practice: [Tennis Refactoring Kata in ABAP](https://github.com/brehberg/Tennis-Refactoring-Kata/tree/master/abap) Emily Bache 2013
@@ -74,11 +74,12 @@
   - Chapter 8: Boundaries
 - Reading Article: [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) Martin Fowler 2007
 - Coding Practice: [String Calculator Kata](http://osherove.com/tdd-kata-1/) [Part 2](http://osherove.com/tdd-kata-2/) Roy Osherove 2009
-    - focus on using TDD and try to follow this [vimeo 14:21 video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang 
+    - focus on using TDD and try to follow this [video](https://vimeo.com/8206748) Gabriele Lana 2009 Erlang 
 
 ## Section 5: Practice ABAP Objects
 
 - Reading Book: [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330) Sandi Metz 2012
+    - focus on comparing [Example Code in ABAP](https://github.com/brehberg/pooda)
 - Reading Article: Additional examples from ABAP Objects training presentations
 - Coding Practice: Bowling Game Kata in ABAP Objects
 - Coding Practice: Roman Numerals Kata in ABAP Objects
@@ -95,7 +96,7 @@
 - Exploring Technology: Dev Environment (e.g. Vagrant/Ansible)
 - Exploring Technology: CI Environment (e.g. Travis)
 - Exploring Technology: Deployment (e.g. Heroku)
-- Reading Article: [Continous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) Martin Fowler 2013 
+- Reading Article: [Continuous Delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) Martin Fowler 2013 
 
 ## Section 7: IDD Refinements
 
